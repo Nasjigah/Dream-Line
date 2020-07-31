@@ -481,7 +481,7 @@ footer {
 
 @media only screen and (max-width: 480px) {
     
-    
+    .intro-content h1 { font-size: 50px; }
     .back-to-top { font-size: 40px; }
     .social-icon a { font-size: 20px; }
     .copy-right { font-size: 12px; }
