@@ -480,7 +480,7 @@ footer {
 
 
 @media only screen and (max-width: 480px) {
-    
+    #intro { background-attachment: scroll;}
     .intro-content h1 { font-size: 50px; }
     .back-to-top { font-size: 40px; }
     .social-icon a { font-size: 20px; }
