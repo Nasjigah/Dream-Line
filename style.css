@@ -20,6 +20,12 @@ hr.divider {
 }
 
 
+.parallex-content {
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+}
+
 /**************************************
            SIDE NAV
 **************************************/
@@ -166,8 +172,7 @@ hr.divider {
 #intro {
     background-image: url(img/1st-section.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     min-height: 100vh;
     background-attachment: fixed;
     display: -webkit-box;
@@ -204,11 +209,9 @@ hr.divider {
 #services {
     background-image: url(img/2nd-section.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center center;
     min-height: 100vh;
     background-attachment: fixed;
-    width: 100%;
 }
 
 .serv {
@@ -233,11 +236,9 @@ hr.divider {
  #portfolio {
     background-image: url(img/3rd-section.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center center;
     min-height: 100vh;
     background-attachment: fixed;
-    width: 100%;
 }
 
 .slider .item {
@@ -273,11 +274,9 @@ hr.divider {
 #story {
     background-image: url(img/4th-section.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center center;
     min-height: 100vh;
     background-attachment: fixed;
-    width: 100%;
 }
 
 .tab-groups {
@@ -337,11 +336,8 @@ hr.divider {
 #contact {
     background-image: url(img/5th-section.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center center;
-    min-height: 100vh;
     background-attachment: fixed;
-    width: 100%;
     
 }
 
