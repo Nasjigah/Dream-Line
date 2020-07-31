@@ -425,6 +425,11 @@ footer {
 
 @media only screen and (max-width: 1023px) {
     
+    #intro { background-attachment: inherit;}
+    #services { background-attachment: inherit;}
+    #portfolio { background-attachment: inherit;}
+    #contact { background-attachment: inherit;}
+    #story { background-attachment: inherit;}
     .intro-content { margin-top: 200px; }
 
     .intro-content h1 { font-size: 60px; }
@@ -463,7 +468,11 @@ footer {
 
 
 @media only screen and (max-width: 767px) {
-    
+    #intro { background-attachment: inherit;}
+    #services { background-attachment: inherit;}
+    #portfolio { background-attachment: inherit;}
+    #contact { background-attachment: inherit;}
+    #story { background-attachment: inherit;}
     body { font-size: 14px;}
          
     .intro-content { margin-top: 250px; }
@@ -480,7 +489,11 @@ footer {
 
 
 @media only screen and (max-width: 480px) {
-    #intro { background-attachment: scroll;}
+    #intro { background-attachment: inherit;}
+    #services { background-attachment: inherit;}
+    #portfolio { background-attachment: inherit;}
+    #contact { background-attachment: inherit;}
+    #story { background-attachment: inherit;}
     .intro-content h1 { font-size: 50px; }
     .back-to-top { font-size: 40px; }
     .social-icon a { font-size: 20px; }
@@ -490,7 +503,11 @@ footer {
 
 
 @media only screen and (max-width: 321px) {
-    
+    #intro { background-attachment: inherit;}
+    #services { background-attachment: inherit;}
+    #portfolio { background-attachment: inherit;}
+    #contact { background-attachment: inherit;}
+    #story { background-attachment: inherit;}
     .intro-content { margin-top: 200px; }
 
     .intro-content h1 { font-size: 40px; }
